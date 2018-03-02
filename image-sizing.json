@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Cover",
+        "value": "bg-size-cover"
+    },
+    {
+        "name": "Contain",
+        "value": "bg-size-contain"
+    },
+    {
+        "name": "Fixed",
+        "value": "bg-size-fixed"
+    }
+
+]

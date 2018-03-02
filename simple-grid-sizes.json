@@ -1,0 +1,14 @@
+[
+    {
+        "name": "large",
+        "value": "col-md-12"
+    },
+    {
+        "name": "Medium",
+        "value": "col-md-10"
+    },
+    {
+        "name": "Small",
+        "value": "col-md-6"
+    }
+]

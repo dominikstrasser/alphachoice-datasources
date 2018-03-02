@@ -1,0 +1,22 @@
+[
+    {
+        "name": "align-items-start",
+        "value": "align-items-start"
+    },
+    {
+        "name": "align-items-end",
+        "value": "align-items-end"
+    },
+    {
+        "name": "align-items-center",
+        "value": "align-items-center"
+    },
+    {
+        "name": "align-items-baseline",
+        "value": "align-items-baseline"
+    },
+    {
+        "name": "align-items-stretch",
+        "value": "align-items-stretch"
+    }
+]
