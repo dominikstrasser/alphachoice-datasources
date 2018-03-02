@@ -1,26 +1,26 @@
 [
     {
         "name": "[............]",
-        "value": "col-12 col-md-12"
+        "value": "col-12 col-md-12; "
     },
     {
         "name": " [..........]",
-        "value": "col-12 offset-md-1 col-md-10 text-center"
+        "value": "col-12 offset-md-1 col-md-10 text-center; "
     },
     {
         "name": "[......] [......]",
-        "value": "col-12 col-md-6; col-12 col-md-6"
+        "value": "col-12 col-md-6; col-12 col-md-6; "
     },
     {
         "name": "[....] [....] [....]",
-        "value": "col-12 col-md-4; col-12 col-md-4; col-12 col-md-4"
+        "value": "col-12 col-md-4; col-12 col-md-4; col-12 col-md-4; "
     },
     {
         "name": "[........] [....]",
-        "value": "col-12 col-md-8; col-12 col-md-4"
+        "value": "col-12 col-md-8; col-12 col-md-4; "
     },
     {
         "name": "[....] [........]",
-        "value": "col-12 col-md-4; col-12 col-md-8"
+        "value": "col-12 col-md-4; col-12 col-md-8; "
     }
 ]
