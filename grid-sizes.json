@@ -1,6 +1,10 @@
 [
     {
-        "name": "[..........]",
+        "name": "[............]",
+        "value": "col-12 col-md-12"
+    },
+    {
+        "name": " [..........]",
         "value": "col-12 offset-md-1 col-md-10 text-center"
     },
     {
