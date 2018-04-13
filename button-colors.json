@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Primary",
+        "value": "primary"
+    },
+    {
+        "name": "Orange",
+        "value": "info"
+    },
+    {
+        "name": "Light",
+        "value": "light"
+    },
+    {
+        "name": "Dark",
+        "value": "dark"
+    },
+    {
+        "name": "White",
+        "value": "white"
+    },
+    {
+        "name": "Primary Outline",
+        "value": "outline-primary"
+    },
+    {
+        "name": "Orange Outline",
+        "value": "outline-info"
+    },
+    {
+        "name": "Light Outline",
+        "value": "outline-light"
+    },
+    {
+        "name": "Dark Outline",
+        "value": "outline-dark"
+    },
+    {
+        "name": "White Outline",
+        "value": "outline-white"
+    }
+]
