@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Small",
+        "value": "btn-sm"
+    },
+    {
+        "name": "Big",
+        "value": "btn-lg"
+    },
+    {
+        "name": "Giant",
+        "value": "btn-xl"
+    }
+]
